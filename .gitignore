@@ -1,0 +1,6 @@
+.idea/
+target/
+servlet-messaging-client.iml
+.classpath
+.project
+.settings/
